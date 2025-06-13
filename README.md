@@ -32,7 +32,7 @@ mvn -version
 ### 安裝步驟
 1. 複製專案到本地端
 ```bash
-git clone [專案網址]
+git clone https://github.com/SpringMicroservicesCourse/errorcode-demo
 ```
 
 2. 進入專案目錄
