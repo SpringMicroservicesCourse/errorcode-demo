@@ -100,3 +100,7 @@ throw new CustomDuplicatedKeyException("資料重複：使用者帳號已存在"
    - 避免在錯誤訊息中暴露敏感資訊
    - 實作適當的存取控制
    - 定期更新相依套件版本
+
+## 授權說明
+
+本專案採用 MIT 授權條款，詳見 LICENSE 檔案。 
